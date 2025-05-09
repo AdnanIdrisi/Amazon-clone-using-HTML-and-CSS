@@ -2,23 +2,21 @@
 
 Welcome to the **Amazon Frontend Clone**, where we replicate the look and feel of the world's biggest online marketplace — using just HTML and CSS. No JavaScript, no functionality, just pure pixel-perfect homage to Amazon’s iconic design.
 
-> ⚠️ This is *strictly* a frontend clone. No backend, no API, and certainly no actual shopping carts (unless you want to pretend).
-
-<br>
+<br><br>
 ## 🚀 Live Demo
 
 > [🔗 Click here to see it live](https://yourusername.github.io/amazon-clone-html-css)  
 *(Replace with your actual GitHub Pages link)*
 
-<br>
+<br><br>
 ## 🧰 Tech Stack
 
 - 🔹 **HTML5** – For structure and semantic markup
 - 🔸 **CSS3** – For layout, design, and responsiveness
 - ❌ **No JavaScript** – This clone won’t sell you anything (or track your clicks)
 
-<br>
-## ✨ Features
+<br><br>
+## 🎯 Features
 
 - ✅ Amazon-like header with logo, search bar, and nav options  
 - ✅ Product grid sections with cards styled like Amazon listings  
@@ -26,8 +24,8 @@ Welcome to the **Amazon Frontend Clone**, where we replicate the look and feel o
 - ✅ Responsive layout for desktop & mobile  
 - ❌ No interactivity, search, or user login — this is a visual-only clone
 
-<br>
-## 🖼️ Screenshots
+<br><br>
+## 📸 Screenshots
 
 | Desktop View |
 |--------------|
@@ -36,8 +34,8 @@ Welcome to the **Amazon Frontend Clone**, where we replicate the look and feel o
 | ![Desktop Screenshot](screenshot/Screenshot%203.png) |
 | ![Desktop Screenshot](screenshot/Screenshot%204.png) |
 
-<br>
-## 🛠️ Getting Started
+<br><br>
+## 🛠️ Installation
 
 Want to run it locally?
 
@@ -45,5 +43,3 @@ Want to run it locally?
 git clone https://github.com/yourusername/amazon-clone-html-css.git
 cd amazon-clone-html-css
 open index.html
-
-
