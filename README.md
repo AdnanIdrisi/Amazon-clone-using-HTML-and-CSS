@@ -40,6 +40,6 @@ Welcome to the **Amazon Frontend Clone**, where we replicate the look and feel o
 Want to run it locally?
 
 ```bash
-git clone https://github.com/yourusername/amazon-clone-html-css.git
+git clone https://github.com/AdnanIdrisi/Amazon-clone-using-HTML-and-CSS.git
 cd amazon-clone-html-css
 open index.html
