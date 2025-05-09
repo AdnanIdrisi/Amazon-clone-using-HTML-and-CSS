@@ -5,8 +5,8 @@ Welcome to the **Amazon Frontend Clone**, where we replicate the look and feel o
 <br><br>
 ## 🚀 Live Demo
 
-> [🔗 Click here to see it live](https://adnanidrisi.github.io/Amazon-clone-using-HTML-and-CSS/)
-*(Hosted via Github Pages)*
+> [🔗 Click here to check it out in action](https://adnanidrisi.github.io/Amazon-clone-using-HTML-and-CSS/)  
+*(Hosted via GitHub Pages)*
 
 <br><br>
 ## 🧰 Tech Stack
